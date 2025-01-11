@@ -13,10 +13,8 @@ Esta é uma ferramenta simples e intuitiva criada para ajudar no aprendizado e n
 
 ## Capturas de Tela
 ![c1](https://github.com/user-attachments/assets/394a6c06-270e-4121-8f3b-e8a3a73a4bfb)
+![regex](https://github.com/user-attachments/assets/fa8d432e-3011-4dfd-b7ac-d4e91e397764)
 
-## Como Baixar e Instalar
-- **Baixe a ferramenta para Windows:** [Download](https://gcison.github.io/CisonRx/)
-- **Treinamento de instalação:** Assista ao [vídeo](https://www.youtube.com/watch?v=DFHJZr2zEqk) explicativo para realizar a instalação corretamente.
 
 ## Vídeos de Treinamento
 - **Nova versão com suporte a Regex Options:** [Assista aqui](https://www.youtube.com/watch?v=55x-huXy4Ho)
