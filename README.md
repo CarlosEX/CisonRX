@@ -1,4 +1,4 @@
-# Regex Tool - Ferramenta para Aprendizado de Expressões Regulares
+# CisonRx - Ferramenta para Aprendizado de Expressões Regulares
 
 ## Visão Geral
 Esta é uma ferramenta simples e intuitiva criada para ajudar no aprendizado e na utilização de expressões regulares. Desenvolvida em C# utilizando o .NET Framework e Windows Forms, ela oferece diversos recursos para facilitar a validação, manipulação e exportação de padrões encontrados em textos.
