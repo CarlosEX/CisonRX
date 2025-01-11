@@ -14,6 +14,12 @@ Esta é uma ferramenta simples e intuitiva criada para ajudar no aprendizado e n
 ## Capturas de Tela
 Insira aqui algumas screenshots da ferramenta em funcionamento para ilustrar seus recursos. 
 
+## Vídeos de Treinamento
+
+### Treinamento de instalação
+Clique na imagem abaixo para assistir ao vídeo:
+[![Treinamento de instalação](https://img.youtube.com/vi/DFHJZr2zEqk/0.jpg)](https://www.youtube.com/watch?v=DFHJZr2zEqk&t=2s)
+
 ## Como Baixar e Instalar
 - **Baixe a ferramenta para Windows:** [Download](https://gcison.github.io/CisonRx/)
 - **Treinamento de instalação:** Assista ao [vídeo](https://www.youtube.com/watch?v=DFHJZr2zEqk) explicativo para realizar a instalação corretamente.
