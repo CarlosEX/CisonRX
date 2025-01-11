@@ -17,8 +17,8 @@ Esta é uma ferramenta simples e intuitiva criada para ajudar no aprendizado e n
 
 
 ## Vídeos de Treinamento
+- **Versão 1:** [Assista aqui](https://www.youtube.com/watch?v=DFHJZr2zEqk)
 - **Nova versão com suporte a Regex Options:** [Assista aqui](https://www.youtube.com/watch?v=55x-huXy4Ho)
-- **Canal no YouTube:** Explore mais conteúdos no canal [Cison Academy](https://www.youtube.com/@cisonacademy).
 
 ## Contribuições
 Sinta-se à vontade para enviar sugestões, abrir issues ou contribuir para melhorias desta ferramenta.
